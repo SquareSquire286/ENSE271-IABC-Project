@@ -5,3 +5,6 @@
 - Nolan Flegel
 - Jacob Sauer
 - Roxanne Harrison
+
+**Objective**:
+
