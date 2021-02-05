@@ -1,5 +1,5 @@
 <h2 align="center">IABC Project Overview</h2>
-<p align="center">The Mandalorians</p>
+<p align="center">The Mandalorians - ENSE 271 Winter 2021</p>
 
 ---
 ### Team Members
