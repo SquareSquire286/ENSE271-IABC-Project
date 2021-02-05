@@ -3,8 +3,8 @@
 
 ---
 #### Team Members
-Nolan Flegel 
-Roxanne Harrison 
+Nolan Flegel
+Roxanne Harrison
 Jacob Sauer 
 
 #### Project Background / Business Opportunity
