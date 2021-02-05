@@ -1,4 +1,4 @@
-<h2 align="center">IABC Project Overview</h2>
+<h1 align="center">IABC Project Overview</h1>
 <p align="center">The Mandalorians - ENSE 271 Winter 2021</p>
 
 ---
