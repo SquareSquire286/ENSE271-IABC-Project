@@ -17,12 +17,12 @@ The IABC Regina chapter is an organization skilled in the art of communication. 
 ### Project Assumptions
 - Site design using Wordpress
 - Design focus for mobile
-- Low tech customers
-- 
+- Current knowledge sufficient for site maintenance
+- No future plans to hire technical staff
 
 ### Project Constraints
 - < $1,000 budget
-- 
+-  implementation 
 
 
 
