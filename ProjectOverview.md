@@ -18,6 +18,7 @@ The IABC Regina chapter is an organization skilled in the art of communication. 
 - Site design using Wordpress
 - Design focus for mobile
 - Low tech customers
+- 
 
 ### Project Constraints
 - < $1,000 budget
