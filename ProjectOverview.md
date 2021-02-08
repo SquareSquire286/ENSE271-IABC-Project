@@ -8,14 +8,14 @@ Roxanne Harrison
 Jacob Sauer  
 
 ### Project Background / Business Opportunity
-The IABC Regina chapter is an organization skilled in the art of communication. Unfortunately, the functionality of the current IABC website does not enable administrators to appropriately communicate information and business updates to its members. Redesigning the site's high-level functionalities to require minimal technical knowledge for maintenance and content deployment will increase member engagement while saving administrators time. 
+The IABC Regina chapter is an organization skilled in the art of communication. Unfortunately, the functionality of the current IABC Regina website does not enable administrators to appropriately communicate information and business updates to its members. Redesigning the site's high-level functionalities to require minimal technical knowledge for maintenance and content deployment will increase member engagement while saving administrators time. 
 
 ### Northstar / Carryover Customers
 *Northstar* customers are IABC site administrators, who will be deploying content through the site's backend.  
 *Carryover* customers are IABC members and site viewers, who will be accessing (and, in some cases, submitting) content through the site's frontend.
 
 ### Project Assumptions
-- Wordpress will be used for website architecture
+- Website architecture must be built using Wordpress
 - Mobile-focused design
 - Low threshold for administrative tasks
 - Clients have no future plans to hire a technical support staff
