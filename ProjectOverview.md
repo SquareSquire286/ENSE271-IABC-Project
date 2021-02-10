@@ -24,7 +24,7 @@ The IABC Regina chapter is an organization skilled in the art of communication. 
 
 ### Project Constraints
 - < $1,000 budget
-- No marketing or graphic design
+- No marketing or graphic design personnel
 - Limited opportunities for user testing
 - Reliant on pre-existing code
 - No analytics for existing website
