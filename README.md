@@ -25,3 +25,5 @@ This repository contains all source code, documentation, and project management 
 **Phase 2: Design Ideation**
 
 - [Site Maps](Design%20Ideation/SiteMaps.pdf)
+- [User Story Map (Updated)](Design%20Ideation/UserStoryMap(Updated).PNG)
+- [Experience Report](Design%20Ideation/ExperienceReport.pdf)
