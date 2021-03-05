@@ -34,4 +34,4 @@ Lo-Fidelity Protype Timeline
 
 Our team went through several lo-fi revisions before landing on our [final presentation](Design%20Ideation/FinalPresentationSketches.pdf) sketches.  
 First we individually sketched our [home page](Design%20Ideation/FirstDraftHomePage.pdf) ideas.  
-Then we explored some paper [prototypes](Design%20Ideation/Prototyping.pdf) to explore user interaction.  
+Then created some paper [prototypes](Design%20Ideation/Prototyping.pdf) to explore user interaction.  
