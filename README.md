@@ -21,3 +21,7 @@ This repository contains all source code, documentation, and project management 
 - <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/jacob/Initial%20Design/UserStoryMap.pdf">User Story Map</a> (watch timelapse below)
 
 ![](Initial%20Design/UserStoryMap.gif)
+
+**Phase 2: Design Ideation**
+
+- [Site Maps](Design Ideation/SiteMaps.pdf)
