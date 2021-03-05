@@ -40,6 +40,6 @@ As a group we decided to focus on mobile designs for the client.
 We then designed three [mobile home](Design%20Ideation/Lo-Fidelity%20Sketches/MobileHome.pdf) page ideas and three [content page](Design%20Ideation/Lo-Fidelity%20Sketches/MobileContent.pdf) ideas.  
 In the end we presented the client with:   
 - Three [header](Design%20Ideation/Lo-Fidelity%20Sketches/Headers.pdf) options  
-- Options for [navigation](Design%20Ideation/Lo-Fidelity%20Sketches/PresentedNavigation.pdf)  
+- Variations of [navigation](Design%20Ideation/Lo-Fidelity%20Sketches/PresentedNavigation.pdf)  
 - Three [home](Design%20Ideation/Lo-Fidelity%20Sketches/PresentedHomePages.pdf) page designs  
 - Three [content](Design%20Ideation/Lo-Fidelity%20Sketches/PresentedContentPages.pdf) page designs
