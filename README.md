@@ -27,3 +27,9 @@ This repository contains all source code, documentation, and project management 
 - [Site Maps](Design%20Ideation/SiteMaps.pdf)
 - [User Story Map (Updated)](Design%20Ideation/UserStoryMap(Updated).PNG)
 - [Experience Report](Design%20Ideation/ExperienceReport.pdf)
+
+Lo-Fidelity Protype Timeline
+- See all lo-fis [here](Design%20Ideation/All-Lo-Fis.pdf)
+
+Our team went through several lo-fi revisions before landing on our [final%20presentation](Design%20Ideation/FinalPresentationSketches.pdf) sketches.  
+First we individually sketched our [home%20page](Design%20Ideation/FirstDraftHomePage.pdf) ideas. 
