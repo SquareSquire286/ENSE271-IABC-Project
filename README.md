@@ -24,4 +24,4 @@ This repository contains all source code, documentation, and project management 
 
 **Phase 2: Design Ideation**
 
-- [Site Maps](Design Ideation/SiteMaps.pdf)
+- [Site Maps](Design%20Ideation/SiteMaps.pdf)
