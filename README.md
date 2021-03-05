@@ -36,3 +36,5 @@ Our team went through several lo-fi revisions before landing on our [final prese
 First we individually sketched our [home page](Design%20Ideation/FirstDraftHomePage.pdf) ideas.  
 Then we created some paper [prototypes](Design%20Ideation/Prototyping.pdf) to explore user interaction.  
 After this the team discussed more details about [page layout](Design%20Ideation/Page%20Layout.pdf).
+As a group we decided to focus on mobile designs for the client.   
+We then designed three [mobile home](Design%20Ideation/MobileHome.pdf) page ideas and three [content page](Design%20Ideation/MobileContent.pdf) ideas.
