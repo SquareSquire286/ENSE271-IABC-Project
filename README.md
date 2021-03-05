@@ -28,6 +28,7 @@ This repository contains all source code, documentation, and project management 
 - [User Story Map (Updated)](Design%20Ideation/UserStoryMap(Updated).PNG)
 - [Experience Report](Design%20Ideation/ExperienceReport.pdf)
 - [Design Presentation (March 1)](Design%20Ideation/DesignPresentation.pdf)
+- [Customer Notes (March 1)](Initial%20Design/CustomerNotesFeb8.md)
 
 Lo-Fidelity Protype Timeline
 - See all lo-fis [here](Design%20Ideation/Lo-Fidelity%20Sketches/AllDesignSketches.pdf) or read about it in the timeline below!  
