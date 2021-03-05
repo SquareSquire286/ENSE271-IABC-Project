@@ -29,8 +29,8 @@ This repository contains all source code, documentation, and project management 
 - [Experience Report](Design%20Ideation/ExperienceReport.pdf)
 - [Design Presentation (March 1)](Design%20Ideation/DesignPresentation.pdf)
 - [Customer Notes (March 1)](Design%Ideation/CustomerNotes_March1.md)
-- [Asset Inventory](Design%Ideation/Asset%20Inventory%20-%20Assets.pdf)
-- [Content Inventory](Design%Ideation/Asset%20Inventory%20-%20Pages.pdf)
+- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/temp/Design%20Ideation/Asset%20Inventory%20-%20Assets.pdf">Asset Inventory</a>
+- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/temp/Design%20Ideation/Asset%20Inventory%20-%20Pages.pdf">Pages Inventory</a>
 
 Lo-Fidelity Protype Timeline
 - See all lo-fis [here](Design%20Ideation/Lo-Fidelity%20Sketches/AllDesignSketches.pdf) or read about it in the timeline below!  
