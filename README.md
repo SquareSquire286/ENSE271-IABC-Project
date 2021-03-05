@@ -11,7 +11,7 @@
 
 This repository contains all source code, documentation, and project management artifacts produced by our team for the IABC Regina website overhaul project in ENSE 271 (People-Centred Design).
 
-**Phase 1: Initial Design**
+# Phase 1: Initial Design
 
 - <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/jacob/Initial%20Design/ProjectOverview.md">Project Overview Document</a>
 - <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/jacob/Initial%20Design/AffinityDiagram.pdf">Affinity Diagram</a>
@@ -22,7 +22,7 @@ This repository contains all source code, documentation, and project management 
 
 ![](Initial%20Design/UserStoryMap.gif)
 
-**Phase 2: Design Ideation**
+# Phase 2: Design Ideation
 
 - [Site Maps](Design%20Ideation/SiteMaps.pdf)
 - [User Story Map (Updated)](Design%20Ideation/UserStoryMap(Updated).PNG)
