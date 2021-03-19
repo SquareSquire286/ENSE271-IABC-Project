@@ -28,7 +28,7 @@ This repository contains all source code, documentation, and project management 
 - [User Story Map (Updated)](Design%20Ideation/UserStoryMap(Updated).PNG)
 - [Experience Report](Design%20Ideation/ExperienceReport.pdf)
 - [Design Presentation (March 1)](Design%20Ideation/DesignPresentation.pdf)
-- [Customer Notes (March 1)](Design%Ideation/CustomerNotes_March1.md)
+- [Customer Notes (March 1)](Design%20Ideation/CustomerNotes_March1.md)
 - <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/temp/Design%20Ideation/Asset%20Inventory%20-%20Assets.pdf">Asset Inventory</a>
 - <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/temp/Design%20Ideation/Asset%20Inventory%20-%20Pages.pdf">Pages Inventory</a>
 
@@ -46,3 +46,11 @@ In the end, we presented the client with:
 - Variations of [navigation](Design%20Ideation/Lo-Fidelity%20Sketches/PresentedNavigation.pdf)  
 - Three [home](Design%20Ideation/Lo-Fidelity%20Sketches/PresentedHomePages.pdf) page designs  
 - Three [content](Design%20Ideation/Lo-Fidelity%20Sketches/PresentedContentPages.pdf) page designs
+
+
+# Phase 3: Hi-Fidelity Prototypes
+
+- [User Story Map (Updated)]()
+- [Experience Report]()
+- [Customer Notes (March 15)]()
+
