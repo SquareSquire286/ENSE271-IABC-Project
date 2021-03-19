@@ -50,7 +50,11 @@ In the end, we presented the client with:
 
 # Phase 3: Hi-Fidelity Prototypes
 
-- [User Story Map (Updated)]()
-- [Experience Report]()
+- [User Story Map (Updated)](Hi-Fi%20Prototyping/StoryMap.png)
+- [Experience Report](Hi-Fi%20Prototyping/ExperienceReport.pdf)
 - [Customer Notes (March 15)]()
-
+- [Mobile XD File](Hi-Fi%20Prototyping/IABC_Mobile_Prototype_Final.xd)
+- [Desktop XD File](Hi-Fi%20Prototyping/IABC%20Hi-Fi%20Prototypes%20(Jacob,%20Browser).xd)
+- See our mobile site walkthrough below!
+  
+![](Hi-Fi%20Prototyping/GIF-mobile.gif)
