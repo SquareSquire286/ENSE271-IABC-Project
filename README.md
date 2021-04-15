@@ -13,12 +13,12 @@ This repository contains all source code, documentation, and project management 
 
 # Phase 1: Initial Design
 
-- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/jacob/Initial%20Design/ProjectOverview.md">Project Overview Document</a>
-- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/jacob/Initial%20Design/AffinityDiagram.pdf">Affinity Diagram</a>
-- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/jacob/Initial%20Design/EmpathyMap.pdf">Empathy Map</a>
-- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/jacob/Initial%20Design/Concept%20Presentation%20(February%208th).pdf">Concept Presentation (February 8th)</a>
-- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/jacob/Initial%20Design/CustomerNotesFeb8.md">Customer Notes (February 8th)</a>
-- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/jacob/Initial%20Design/UserStoryMap.pdf">User Story Map</a> (watch timelapse below)
+- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/main/Initial%20Design/ProjectOverview.md">Project Overview Document</a>
+- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/main/Initial%20Design/AffinityDiagram.pdf">Affinity Diagram</a>
+- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/main/Initial%20Design/EmpathyMap.pdf">Empathy Map</a>
+- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/main/Initial%20Design/Concept%20Presentation%20(February%208th).pdf">Concept Presentation (February 8th)</a>
+- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/main/Initial%20Design/CustomerNotesFeb8.md">Customer Notes (February 8th)</a>
+- <a href="https://github.com/SquareSquire286/ENSE271-IABC-Project/blob/main/Initial%20Design/UserStoryMap.pdf">User Story Map</a> (watch timelapse below)
 
 ![](Initial%20Design/UserStoryMap.gif)
 
@@ -50,7 +50,12 @@ In the end, we presented the client with:
 
 # Phase 3: Hi-Fidelity Prototypes
 
-- [User Story Map (Updated)]()
-- [Experience Report]()
-- [Customer Notes (March 15)]()
-
+- [User Story Map (Updated)](Hi-Fi%20Prototyping/StoryMap.png)
+- [Experience Report](Hi-Fi%20Prototyping/ExperienceReport.pdf)
+- [Customer Notes (March 15)](Hi-Fi%20Prototyping/IABC%20Summary%20Notes%20March%2015.pdf)
+- [Hi-Fi Screenshots](Hi-Fi%20Prototyping/Hi-Fi%20screenshots/High-Fi-Screenshots.pdf)
+- [Mobile XD File](Hi-Fi%20Prototyping/IABC_Mobile_Prototype_Final.xd)
+- [Desktop XD File](Hi-Fi%20Prototyping/IABC%20Hi-Fi%20Prototypes%20(Jacob,%20Browser).xd)
+- See our mobile site walkthrough below!
+  
+![](Hi-Fi%20Prototyping/GIF-mobile.gif)
