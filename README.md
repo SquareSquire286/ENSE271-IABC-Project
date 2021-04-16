@@ -59,3 +59,12 @@ In the end, we presented the client with:
 - See our mobile site walkthrough below!
   
 ![](Hi-Fi%20Prototyping/GIF-mobile.gif)
+
+
+# Phase 4: WordPress Implementation
+
+- [User Story Map (Updated)](Wordpress%20Implementation/User_Story_Map.png)
+- [Customer Notes (April 12)](Wordpress%20Implementation/April_12_Customer_Notes.pdf)
+- [Final Presentation (April 12)](Wordpress%20Implementation/Final_Presentation.pdf)
+- [Justification of WordPress Plugins](Wordpress%20Implementation/Plugin_Justification.pdf)
+- [Final Project Report](Wordpress%20Implementation/Final_Project_Report.pdf)
